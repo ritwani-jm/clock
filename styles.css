@@ -34,9 +34,15 @@ span {
   color: var(--text-color);
 }
 
+.cities select {
+    width: 30%;
+    height: 50px;
+    margin-top: 5%; 
+}
+
 .clock {
     width: 80%;
-    margin: 10% auto 0;
+    margin: 3% auto 0;
 }
 
 .day {
